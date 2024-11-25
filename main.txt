@@ -1,1 +1,2 @@
 ini file yang ada di branch main/master
+ini ditambahkan oleh dua
